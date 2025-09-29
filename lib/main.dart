@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Namer App',
         theme: ThemeData(
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepOrange),
+          colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 34, 233, 255)),
         ),
         home: MyHomePage(),
       ),
@@ -67,7 +67,10 @@ class BigCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final theme = Theme.of(context); // ← Add this.
+
     return Card(
+       color: theme.colorScheme.primary,
       child: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Text(pair.asLowerCase),
