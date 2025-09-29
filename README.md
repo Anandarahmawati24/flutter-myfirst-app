@@ -1,16 +1,45 @@
 # flutter_application_1
 
-A new Flutter project.
+My First App 
 
-## Getting Started
+### Praktikum 4 running aplikasi
+![running aplikasi](images/myfirstapp_1.png)
 
-This project is a starting point for a Flutter application.
+#### menambahkan tombol
+![menambahkan tombol](images/myfirstapp_2.png)
 
-A few resources to get you started if this is your first Flutter project:
+#### menambahkan tombol
+![menambahkan tombol](images/myfirstapp_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Praktikum 5 memperindah tampilan aplikasi
+![running aplikasi](images/myfirstapp_4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### menambahkan card, tema dan style
+![menambahkan card, tema dan style](images/myfirstapp_5.png)
+
+#### menambahkan textTheme
+![menambahkan TextTheme](images/myfirstapp_6.png)
+
+#### menambahkan textTheme center
+![menambahkan TextTheme center](images/myfirstapp_7.png)
+
+#### modifikasi BigCard
+![modifikasi BigCard](images/myfirstapp_8.png)
+
+### Praktikum 6 menambahkan fungsi
+![menambahkan fungsi ](images/myfirstapp9.png)
+
+#### menambahkan fungsi untuk menampilkan tombol suka 
+![fungsi tombol suka](images/myfirstapp_10.png)
+
+### Praktikum 7 menambahkan kolom disamping navigasi
+![menambahkan fkolom disamping navigasi ](images/myfirstapp_11.png)
+
+#### implementasi set index
+![implementasi set index](images/myfirstapp_12.png)
+
+#### implementasi responsive page
+![implementasiresponsive page ](images/myfirstapp_13.png)
+
+### Praktikum 8 implementasi penambahan halaman baru
+![implementasi halaman baru  ](images/myfirstapp_14.png)
