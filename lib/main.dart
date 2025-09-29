@@ -43,10 +43,10 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center, // ← Add this.
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('A random AWESOME idea:'),
             BigCard(pair: pair),
+            SizedBox(height: 10),
             ElevatedButton(
               onPressed: () {
                 appState.getNext();
