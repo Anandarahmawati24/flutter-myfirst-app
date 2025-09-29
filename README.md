@@ -1,5 +1,8 @@
 # flutter_application_1
 
+Nama: Ananda Rahmawati
+NIM:2341720048
+
 My First App 
 
 ### Praktikum 4 running aplikasi
